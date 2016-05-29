@@ -1,0 +1,52 @@
+electronics_store -1  #SUP: 6
+electronics_store -1 store -1  #SUP: 5
+clothing_store -1  #SUP: 7
+bank -1  #SUP: 5
+school -1  #SUP: 8
+school finance -1  #SUP: 5
+school -1 atm -1  #SUP: 5
+school -1 finance -1  #SUP: 5
+school -1 store -1  #SUP: 6
+home_goods_store -1  #SUP: 8
+home_goods_store -1 school -1  #SUP: 6
+home_goods_store -1 school -1 atm -1  #SUP: 5
+home_goods_store -1 school -1 store -1  #SUP: 5
+home_goods_store -1 atm -1  #SUP: 5
+home_goods_store -1 atm store -1  #SUP: 5
+home_goods_store -1 finance -1  #SUP: 5
+home_goods_store -1 store -1  #SUP: 6
+home_goods_store -1 store -1 atm -1  #SUP: 5
+home_goods_store -1 store -1 store -1  #SUP: 5
+home_goods_store -1 store -1 store -1 atm -1  #SUP: 5
+home_goods_store -1 store -1 store -1 store -1  #SUP: 5
+atm -1  #SUP: 7
+atm -1 store -1  #SUP: 5
+atm store -1  #SUP: 7
+lodging -1  #SUP: 5
+bus_station -1  #SUP: 7
+bus_station -1 restaurant -1  #SUP: 5
+bus_station -1 store -1  #SUP: 6
+bus_station -1 store -1 store -1  #SUP: 5
+restaurant -1  #SUP: 8
+restaurant -1 bus_station -1  #SUP: 6
+restaurant -1 bus_station -1 store -1  #SUP: 5
+restaurant -1 school -1 store -1 restaurant -1  #SUP: 5
+restaurant -1 store -1  #SUP: 5
+restaurant -1 store -1 store -1  #SUP: 5
+store -1  #SUP: 10
+store -1 restaurant -1  #SUP: 6
+store -1 school -1  #SUP: 5
+store -1 atm -1  #SUP: 5
+store -1 bus_station -1  #SUP: 6
+store -1 bus_station -1 restaurant -1  #SUP: 5
+store -1 bus_station -1 store -1  #SUP: 6
+store -1 bus_station -1 store -1 store -1  #SUP: 5
+store -1 finance -1  #SUP: 5
+store -1 store -1  #SUP: 7
+store -1 store -1 atm -1  #SUP: 5
+store -1 store -1 bus_station -1  #SUP: 5
+store -1 store -1 store -1  #SUP: 6
+shopping_mall -1  #SUP: 6
+shopping_mall -1 school -1  #SUP: 5
+finance -1  #SUP: 6
+finance -1 store -1  #SUP: 5
